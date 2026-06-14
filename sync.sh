@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~/low_level_engineering
 WINDOWS_DSA="/mnt/d/DSA/"
 LINUX_DSA="$HOME/low_level_engineering/dsa/"
 
